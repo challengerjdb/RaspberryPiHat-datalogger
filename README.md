@@ -4,3 +4,6 @@ My name is Jacob Bendell, and I’m a student at the University of Pennsylvania 
 
 The folder titled 'pythonscript' contains the files to run the data aquisition and live plotter features.  
 The folder titled 'kicadhat' contains all the files and libraries for the data logger hat
+
+Feel free to reach out to me with any questions!
+jbendell@seas.upenn.edu
